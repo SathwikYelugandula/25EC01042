@@ -8,6 +8,9 @@ print("numpy version :", np.__version__ )
 print("pandas version :", pd.__version__ )
 print("matplotlib:", matplotlib.__version__)
 print("roll no: 25EC01042")
+<<<<<<< HEAD
+print("hello world from branch check")
+=======
 print("hello pyple")
 <<<<<<< HEAD
 print("hello world from main")
