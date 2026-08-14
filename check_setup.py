@@ -9,6 +9,7 @@ print("pandas version :", pd.__version__ )
 print("matplotlib:", matplotlib.__version__)
 print("roll no: 25EC01042")
 print("hello world from main")
+print("hello from copy")
 
 # a one-line smoke test of the plotting back-end
 plt.plot([0, 1, 2, 3], [0, 1, 4, 9], marker="o")
