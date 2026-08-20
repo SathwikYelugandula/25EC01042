@@ -1,6 +1,4 @@
-# =====================================================================
-# E11. Diode I-V characteristics at different ambient temperatures.
-# =====================================================================
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import sys
